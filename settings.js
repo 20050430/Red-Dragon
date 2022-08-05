@@ -29,29 +29,29 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+94717428026'] //ur owner number
+global.vcardowner = ['+94714204539'] //ur owner number
 global.ownername = "🤘Manjith D Silwa❯❯" //ur owner name
-global.ytname = "" //ur yt chanel name
+global.ytname = "https://www.youtube.com/channel/UC1l-5-M_OFgYkvkL8PYHCcw" //ur yt chanel name
 global.socialm = "GitHub: prabhasha2006" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/x7qYTrq/20220605-103944.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
-global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
+global.dragonchat = "false"  // chat bot  "false" / "false" (200 auto replies in this)
 
-global.callblock === "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
+global.callblock === "false" // call block "false" / "false" (CALL ගන්න අය block කිරීමට "true")
 
-global.owner = ['+94717428026']
-global.ownertag = '+94717428026' //ur tag number
+global.owner = ['+94714204539']
+global.ownertag = '+94714204539' //ur tag number
 global.botname = 'Manjith-D Silwa- 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
+global.packname = "" // sticker packname
 global.author = "Manjitha-D-Silwa" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-MD ]' //In list menu
 
 global.button = '☰ Manjith ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.btnurl = 'https://github.com/20050430' //Change Your Button's URL
 
 //damtabase
 global.premium = ['+94714204539'] //ur premium numbers
