@@ -42,8 +42,8 @@ global.dragonchat = "false"  // chat bot  "false" / "false" (200 auto replies in
 
 global.callblock === "false" // call block "false" / "false" (CALL ගන්න අය block කිරීමට "true")
 
-global.owner = ['+94714204539']
-global.ownertag = '+94714204539' //ur tag number
+global.owner = ['+94717428026']
+global.ownertag = '+94717428026' //ur tag number
 global.botname = 'Manjith-D Silwa- 𝘉𝘖𝘛' //ur bot name
 global.packname = "" // sticker packname
 global.author = "Manjitha-D-Silwa" // sticker author
@@ -54,7 +54,7 @@ global.button = '☰ Manjith ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/20050430' //Change Your Button's URL
 
 //damtabase
-global.premium = ['+94714204539'] //ur premium numbers
+global.premium = ['+94717428026'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
